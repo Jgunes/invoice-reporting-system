@@ -45,3 +45,8 @@ Python automation project for invoice analysis, sales tracking, and automated PD
 
 ### Revenue By Category Analysis
 ![Revenue By Category](revenue_by_category.png)
+
+
+# Author
+
+JG Automation & Data
