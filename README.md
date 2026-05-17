@@ -37,8 +37,11 @@ Python automation project for invoice analysis, sales tracking, and automated PD
 
 ### Sales Performance Dashboard
 
-![Sales Chart](sales_chart.png)
+![Revenue Chart](monthly_revenue_profit.png)
 
 ### Automated PDF Report
 
-![PDF Report](pdf_report_preview.png)
+![Payment Status](payment_status.png)
+
+### Revenue By Category
+![Revenue By Category](revenue_by_category.png)
