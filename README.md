@@ -35,16 +35,10 @@ Python automation project for invoice analysis, sales tracking, and automated PD
 
 ## Preview
 
-### Monthly Revenue & Profit Analysis
 
-![Revenue Chart](monthly_revenue_profit.png)
-
-### Payment Status Analysis
-
-![Payment Status](payment_status.png)
 
 ### Revenue By Category Analysis
-![Revenue By Category](revenue_by_category.png)
+![Revenue By Category](revenue_chart.png)
 
 
 # Author
